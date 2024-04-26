@@ -19,9 +19,9 @@ $ pkg update && pkg upgrade -y
 $ pkg install git
 $ pkg install python -y
 $ pkg install python-pip
-$ git clone https://github.com/ferlyafriliyan/enc_py3
-$ cd enc_py3
-$ python main.py
+$ git clone https://github.com/BJ-Trucks/BJ-ENC.git
+$ cd BJ-ENC
+$ python BJ_ENC.py
 ```
 
 
