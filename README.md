@@ -26,7 +26,7 @@ $ python main.py
 
 
 ### *Prosses Encryptions - Obfuscated File :*
-![img](https://raw.githubusercontent.com/ferlyafriliyan/enc_py3/master/assets/process_obf.jpg)
+![img](https://raw.githubusercontent.com/BJ-Trucks/BJ-ENC/master/assets/process_obf.jpg)
 
 ### *Gambaran Hasil Encryptions - Obfuscated File :*
-![img](https://raw.githubusercontent.com/ferlyafriliyan/enc_py3/master/assets/obfuscate_results.png)
+![img](https://raw.githubusercontent.com/BJ-Trucks/BJ-ENC/master/assets/obfuscate_results.png)
