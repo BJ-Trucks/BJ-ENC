@@ -28,5 +28,5 @@ $ python BJ_ENC.py
 ### *Prosses Encryptions - Obfuscated File :*
 ![img](https://raw.githubusercontent.com/BJ-Trucks/BJ-ENC/master/assets/process_obf.jpg)
 
-### *Gambaran Hasil Encryptions - Obfuscated File :*
+### *Overview of Encryptions Results - Obfuscated File  :*
 ![img](https://raw.githubusercontent.com/BJ-Trucks/BJ-ENC/master/assets/obfuscate_results.png)
