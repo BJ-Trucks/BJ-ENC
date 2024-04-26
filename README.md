@@ -2,9 +2,9 @@ Welcome
 --------|
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
-### *Follow Github Saya, Dan Juga Media Social Sayaa :*
+### *Follow my Github, and also my social media :*
 
-<a href="https://ferlyafriliyan.vercel.app" target="_blank">Social Media or Website's</a>
+<a href="https://mr-ba-bl-u.vercel.app/" target="_blank">Social Media or Website's</a>
 
 ### - *Run a Terminal (Termux - Linux) :*
 ```python
